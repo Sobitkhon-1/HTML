@@ -89,11 +89,11 @@
                 <h4>Contact info</h4>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras consectetur augue eu neque.</p>
-                <a href="https://t.me/shaxsiyrivoj01"><li>Home</li></a>
-                <a href="https://t.me/shaxsiyrivoj01"><li>PROJECTS</li></a>
-                <a href="https://t.me/shaxsiyrivoj01"><li>ABOUT</li></a>
-                <a href="https://t.me/shaxsiyrivoj01"><li>LINKS</li></a>
-                <a href="https://t.me/shaxsiyrivoj01"><li>CONTACT</li></a>
+               <li> <a href="https://t.me/shaxsiyrivoj01">Home</a></li>
+               <li> <a href="https://t.me/shaxsiyrivoj01">PROJECTS</a></li>
+                <li><a href="https://t.me/shaxsiyrivoj01">ABOUT</a></li>
+                <li><a href="https://t.me/shaxsiyrivoj01">LINKS</a></li>
+                <li><a href="https://t.me/shaxsiyrivoj01">CONTACT</a></li>
             </footer>
         </div>
 </body>
